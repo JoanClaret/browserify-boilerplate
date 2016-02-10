@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+/.idea/
+*.sublime-project
+*.sublime-workspace
+composer.phar
+*.sublime-gulp.cache
+*.psd

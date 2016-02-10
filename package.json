@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "joanclaret <dpam23@gmail.com> (https://www.github.com/JoanClaret)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "max-char-limit-warning": "^1.0.2"
+  }
+}
