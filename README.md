@@ -12,3 +12,8 @@ How to use
 - Require the npm package in main.js file, simply adding `require('max-char-limit-warning');` at the end of the file.
 - Run 'gulp'. You'll see `max-char-limit-warning` included in `./dist/build.js` (after jQuery).
 
+Adding jQuery
+-----------
+- Add jQuery as a new dependency: `npm i jquery --save`
+- Require jQuery in the main.js file `var $ = jQuery = require('jquery');`
+- Run 'gulp' again.
